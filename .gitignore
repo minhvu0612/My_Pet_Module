@@ -3,3 +3,5 @@ postgresql/
 etc/addons/
 etc/sessions/
 etc/filestore/
+addons/mypet/_pycache_/
+addons/mypet/models/_pycache_/
